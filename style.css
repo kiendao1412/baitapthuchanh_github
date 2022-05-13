@@ -1,0 +1,16 @@
+.baitap{
+    box-sizing: border-box; 
+    background-image: url(https://img.pikbest.com/backgrounds/20200411/simple-creative-mechanical-technology-background-synthesis_1909814.jpg!bw340) ;
+    background-repeat: no-repeat;
+    background-size: 100%; color: #333;
+    background-image: linear-gradient(0,#fff,yellow,orange); 
+    line-height: 30px;
+    padding-left: 25px  ;
+ }
+ h2{
+     font-size: 20px;
+ }
+ .thongtin{
+     padding-left: -15px;
+ }
+
